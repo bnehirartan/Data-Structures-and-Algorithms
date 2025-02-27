@@ -3,10 +3,6 @@ import java.util.*;
 
 //-----------------------------------------------------
 //Title: HospitalDatabase class
-//Authors: Basak Nehir Artan 
-//ID: 26051100858
-//Section: 02
-//Assignment: 03
 //Description: //This program implements a hospital database using binary search trees (BST) to store and manage patient records
 //and their associated care teams. It allows adding, removing, and querying patients and care team members, as well as sorting and filtering them based on 
 //visit dates and doctors.
